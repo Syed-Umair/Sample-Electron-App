@@ -1,0 +1,14 @@
+{
+  "name": "jshots",
+  "version": "0.1.0",
+  "description": "web app for JSHOTS blog.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "author": "Syed Umair",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
